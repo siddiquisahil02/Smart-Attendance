@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "945702401813",
+    "firebase_url": "https://experiment-a51d5.firebaseio.com",
+    "project_id": "experiment-a51d5",
+    "storage_bucket": "experiment-a51d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945702401813:android:08b39e2aa4b6c13cc59b1c",
+        "android_client_info": {
+          "package_name": "com.boiz.experiment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945702401813-lf6oa7srrmgllit2t9718rjc5nu4e9dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV7zLhqCbo6SmXFkCcLqV8vncnM1_6Zgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945702401813-lf6oa7srrmgllit2t9718rjc5nu4e9dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
